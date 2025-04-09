@@ -1,0 +1,6 @@
+train: /Users/tomaszfrelek/Downloads/partitioned_data/train/images
+val: /Users/tomaszfrelek/Downloads/partitioned_data/valid/images
+test: /Users/tomaszfrelek/Downloads/partitioned_data/test/images
+
+nc: 11
+names: ['biker', 'car', 'pedestrian', 'trafficLight', 'trafficLight-Green', 'trafficLight-GreenLeft', 'trafficLight-Red', 'trafficLight-RedLeft', 'trafficLight-Yellow', 'trafficLight-YellowLeft', 'truck']
