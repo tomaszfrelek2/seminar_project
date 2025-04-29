@@ -3,7 +3,7 @@ import numpy as np
 import random
 import argparse
 import os
-from make_crack import *
+from seminar_project.data_modification.make_crack import *
 
 def generate_random_mud_splatter(image, num_splatters=15, opaque = False):
     h, w = image.shape[:2]

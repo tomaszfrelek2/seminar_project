@@ -4,7 +4,7 @@ import random
 import argparse
 import os
 from modify_image import *
-from make_crack import *
+from seminar_project.data_modification.make_crack import *
 
 
 
