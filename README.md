@@ -2,7 +2,7 @@
 This my project repo for CSE 5469
 
 # Data 
-Training/testing data unfortunetly could not be provided due to github file upload limits (github limts 1000 files per folder, and max file size of 25MB).
+Training/testing data unfortunetly could not be provided due to github file upload limits (github limts 1000 files per folder, and max file size of 25MB). Even the zip files of my data exceed this limit unfortunetly.  
 
 # Viewing Results
 Since there is no data provided, you can view my results in either `eval_script.ipynb`, or the 'runs/detect' folder, where the results of the model evaluations are stored.
