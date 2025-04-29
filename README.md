@@ -21,7 +21,7 @@ The runs folder contains the results of all the model evalutaions I ran for the 
 It contains sample images, F1 curves, confusion matrices, and more, for all evaluations.
 
 # Eval_Script
-If you download the data yourself in YOLO format, you can run `eval_script.ipynb` to see the results yourself. Just be sure that you have instaled the newest version of Ultralytics(8.3.40 at time of submission) , as YOLO11 is a new architecture and requires the most up-to-date version, and also be sure to properly replace the file path with ones accurate to your machine.
+If you download the data yourself in YOLO format, you can run `eval_script.ipynb` to see the results yourself. Just be sure that you have instaled the newest version of Ultralytics(8.3.40 at time of submission) , as YOLO11 is a new architecture and requires the most up-to-date version, and also be sure to properly replace the file paths with ones accurate to your machine.
 
 You shouldn't have to train a new model, as I have provided `best.pt` and `mud_best.pt` which are the pytorch files for the original model and adversarially trained model, respectivly.
 
