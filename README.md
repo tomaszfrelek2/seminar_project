@@ -1,5 +1,6 @@
 # seminar_project
-This my project repo for CSE 5469
+This my repo for my project on the study of the effects of camera defects on object detection accuracy.
+Read my report at '''Seminar_Paper.pdf'''
 
 # Data 
 Training/testing data unfortunetly could not be provided due to github file upload limits (github limts 1000 files per folder, and max file size of 25MB). Even the zip files of my data exceed this limit unfortunetly.  
